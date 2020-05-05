@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jewels and Stones", "Jewels
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ransom Note", "Ransom Note\Ransom Note.csproj", "{FB63952A-A3F7-423C-94DA-1FFD82A2E4A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Unique Character in a String", "First Unique Character in a String\First Unique Character in a String.csproj", "{17A7E171-F6E2-4512-B8AD-C144A53BD051}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FB63952A-A3F7-423C-94DA-1FFD82A2E4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB63952A-A3F7-423C-94DA-1FFD82A2E4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB63952A-A3F7-423C-94DA-1FFD82A2E4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A7E171-F6E2-4512-B8AD-C144A53BD051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A7E171-F6E2-4512-B8AD-C144A53BD051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A7E171-F6E2-4512-B8AD-C144A53BD051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A7E171-F6E2-4512-B8AD-C144A53BD051}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
