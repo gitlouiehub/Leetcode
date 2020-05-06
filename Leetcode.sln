@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ransom Note", "Ransom Note\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Unique Character in a String", "First Unique Character in a String\First Unique Character in a String.csproj", "{17A7E171-F6E2-4512-B8AD-C144A53BD051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority Element", "Majority Element\Majority Element.csproj", "{80985597-A5E7-4AE2-A63D-3800D49E85E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{17A7E171-F6E2-4512-B8AD-C144A53BD051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A7E171-F6E2-4512-B8AD-C144A53BD051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A7E171-F6E2-4512-B8AD-C144A53BD051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80985597-A5E7-4AE2-A63D-3800D49E85E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80985597-A5E7-4AE2-A63D-3800D49E85E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80985597-A5E7-4AE2-A63D-3800D49E85E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80985597-A5E7-4AE2-A63D-3800D49E85E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
