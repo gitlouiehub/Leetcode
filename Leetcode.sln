@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Happy Number", "Happy Numbe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jewels and Stones", "Jewels and Stones\Jewels and Stones.csproj", "{EF485606-FD1E-4999-B6D0-FC87650799B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ransom Note", "Ransom Note\Ransom Note.csproj", "{FB63952A-A3F7-423C-94DA-1FFD82A2E4A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ransom Note", "Ransom Note\Ransom Note.csproj", "{FB63952A-A3F7-423C-94DA-1FFD82A2E4A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Unique Character in a String", "First Unique Character in a String\First Unique Character in a String.csproj", "{17A7E171-F6E2-4512-B8AD-C144A53BD051}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First Unique Character in a String", "First Unique Character in a String\First Unique Character in a String.csproj", "{17A7E171-F6E2-4512-B8AD-C144A53BD051}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority Element", "Majority Element\Majority Element.csproj", "{80985597-A5E7-4AE2-A63D-3800D49E85E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Majority Element", "Majority Element\Majority Element.csproj", "{80985597-A5E7-4AE2-A63D-3800D49E85E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Perfect Square", "Valid Perfect Square\Valid Perfect Square.csproj", "{73A02E96-B203-46D4-A090-23E3A44F9947}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{80985597-A5E7-4AE2-A63D-3800D49E85E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80985597-A5E7-4AE2-A63D-3800D49E85E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80985597-A5E7-4AE2-A63D-3800D49E85E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A02E96-B203-46D4-A090-23E3A44F9947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A02E96-B203-46D4-A090-23E3A44F9947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A02E96-B203-46D4-A090-23E3A44F9947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A02E96-B203-46D4-A090-23E3A44F9947}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
